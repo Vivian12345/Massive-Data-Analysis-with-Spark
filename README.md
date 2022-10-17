@@ -1,6 +1,8 @@
-# MDA
-# HW1 - Mapreduce
-# HW2 - Pagerank - Google Algorithm
-# HW3 - Kmeans - Clustering
-# HW4 - Finding Similar Articles
-# Term Project - Girvan Newman Algorithm - clustering group of people in karate_club
+## Massive Data Analysis with Pyspark
+
+* Spark MapReduce for Matrix Multiplication
+* Google PageRank for Website Page Ranking
+* Kmeans Algorithm for Clustering
+* Locality Sensitive Hashing for Finding Text Similarity
+* Girvan Newman Algorithm for Social Network Clustering
+
