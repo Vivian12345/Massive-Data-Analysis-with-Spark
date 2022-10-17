@@ -1,15 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[1]:
-
-
 from pyspark import SparkConf, SparkContext
-
-
-# In[4]:
-
-
 conf = SparkConf().setMaster("local").setAppName("Similarity")
 sc = SparkContext(conf=conf)
 
